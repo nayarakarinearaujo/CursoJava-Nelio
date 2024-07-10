@@ -84,10 +84,6 @@ Este repositório é dedicado ao curso **Java COMPLETO Programação Orientada a
 - Exercício resolvido
 - Exercício proposto
 
-## Material de Apoio
-
-Consulte a pasta `recursos/` para encontrar slides, documentos e materiais adicionais que suportam os tópicos abordados no curso.
-
 ## Sobre Nelio Alves
 
 Nelio Alves é um renomado instrutor de cursos de desenvolvimento de software, conhecido por suas abordagens claras e eficazes no ensino de Java e outras tecnologias de programação. Seu curso completo de Java é amplamente reconhecido por sua profundidade e qualidade.

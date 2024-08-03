@@ -36,9 +36,11 @@ public class SaidaDeDadosExercicio {
         System.out.printf("%n%s, which price is $ %.2f ", product2, price2);
         System.out.printf("%nRecord: %d years old, code %d and gender: %s", age, code, gender);
 
-        //Falta resolver o último
-        Locale.setDefault(Locale.US);
-        System.out.printf("%nMeasue with eight decimal places: %8.f ", measure);
+        System.out.printf("%nMeasue with eight decimal places: $ %.8f", measure);
+        System.out.printf("%nRouded (three decimal places): $ %.3f", measure);
 
+        Locale.setDefault(Locale.US);
+
+        System.out.printf("%nUS decimal point: $ %.3f", measure);
     }
 }

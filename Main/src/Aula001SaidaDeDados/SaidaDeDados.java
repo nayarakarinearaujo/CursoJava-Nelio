@@ -1,3 +1,5 @@
+package Aula001SaidaDeDados;
+
 import java.util.Locale;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

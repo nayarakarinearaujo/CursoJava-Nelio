@@ -1,3 +1,5 @@
+package Aula001SaidaDeDados;
+
 import java.util.Locale;
 
 public class SaidaDeDadosExercicio {

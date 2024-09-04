@@ -10,5 +10,13 @@ de valores.
 Quando usar: quando se sabe previamente a quantidade de repetições,
 ou o intervalo de valores.
 */
+
+        //Problema exemplo:
+/*
+Fazer um programa que lê um valor inteiro N e depois N números inteiros. Ao final,
+mostra a soma dos N números lidos
+ */
+
+
     }
 }
